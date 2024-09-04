@@ -17,9 +17,11 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Greetings! Welcome to Zhidong's personal website.
+
 I am interested in Computational Mechanics, Sensing, Computer Vision, Data Analytics, and Coding. I am dedicated to researching structural engineering and structural health monitoring through mechanics-based and data-driven approaches to advance resilient, healthy, and sustainable infrastructure.
 
-I enjoy playing badmintion, hiking, and cooking.
+I enjoy playing badminton, hiking, and cooking.
 
 **Education**
 
