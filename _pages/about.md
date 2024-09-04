@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://engineering.virginia.edu/labs-groups/infrastructure-simulation-sensing-and-evaluation-lab/about/researchers'>Postdoctor @ University of Virginia</a> zz9km@vriginia.edu
+subtitle: <a href='https://engineering.virginia.edu/labs-groups/infrastructure-simulation-sensing-and-evaluation-lab/about/researchers'>Postdoctor @ University of Virginia</a> zz9km@virginia.edu
 
 profile:
   align: right
@@ -34,7 +34,7 @@ Harbin Institute of Technology, Harbin, Heilongjiang, China <br>
 *B.A.* in Civil Engineering, 2015 <br>
 Harbin Institute of Technology, Harbin, Heilongjiang, China <br>
 
-More soon…
+Website updated on 2024-09-04. More coming soon…
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
