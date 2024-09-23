@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://engineering.virginia.edu/labs-groups/infrastructure-simulation-sensing-and-evaluation-lab/about/researchers'>Postdoctor @ University of Virginia</a> zz9km@virginia.edu
+subtitle: <a href='https://engineering.virginia.edu/labs-groups/infrastructure-simulation-sensing-and-evaluation-lab/about/researchers'>Postdoctoral researcher @ University of Virginia</a> zz9km@virginia.edu
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Greetings! Welcome to Zhidong's personal website.
 
-I am interested in Computational Mechanics, Sensing, Computer Vision, Data Analytics, and Coding. I am dedicated to researching structural engineering and structural health monitoring through mechanics-based and data-driven approaches to advance resilient, healthy, and sustainable infrastructure.
+I am an experienced researcher in the fields of structural engineering and structural health monitoring. My interests are computational mechanics, computer vision, data analytics, and open-source software.  I would like to advance resilient, healthy, and sustainable infrastructure with mechanics-based, data-driven approaches.
 
 I enjoy playing badminton, hiking, and cooking.
 
